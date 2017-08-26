@@ -1,0 +1,28 @@
+{
+  "name": "alexa-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideokamoto/alexa-quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hideokamoto/alexa-quiz/issues"
+  },
+  "homepage": "https://github.com/hideokamoto/alexa-quiz#readme",
+  "devDependencies": {
+    "alexa-conversation": "^0.1.0",
+    "mocha": "^3.5.0",
+    "power-assert": "^1.4.4"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
+}
