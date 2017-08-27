@@ -1,5 +1,5 @@
 const conversation = require('alexa-conversation');
-const app = require('../handler.js');
+const app = require('../index.js');
 
 const opts = {
   name: 'English Teacher Test',

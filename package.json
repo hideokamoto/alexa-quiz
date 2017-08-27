@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/mocha/bin/_mocha tests -- -R spec --recursive"
+    "test": "node_modules/mocha/bin/_mocha test -- -R spec --recursive"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "devDependencies": {
     "alexa-conversation": "^0.1.0",
     "mocha": "^3.5.0",
-    "power-assert": "^1.4.4"
+    "serverless": "^1.20.2"
   },
   "dependencies": {
     "alexa-sdk": "^1.0.12"
